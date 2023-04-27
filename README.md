@@ -13,6 +13,6 @@
 - 인천대학교 | 2013 - 2019
 
 ### 📫 Let's connect!
-- [Blog](https://www.notion.so/kyungadev/Basic-study-0fbbba3429904de1bd7d03f001656eaa)
+- [Blog](https://www.notion.so/kyungadev/kyunga-Blog-cd90743558cb414d8a7e72db5426da79)
 
 ![Kyunga's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungaIM&show_icons=true&theme=transparent)
