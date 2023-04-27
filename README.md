@@ -13,7 +13,6 @@
 - 인천대학교 | 2013 - 2019
 
 ### 📫 Let's connect!
-- [LinkedIn](https://www.linkedin.com/in/annehlim/)
-- [Blog](https://heeyeon-lim.notion.site/50b67e02d3ce44988bc63e2e217ff1bc?v=d31b15bf7fcc48fc8dcda13b02074d09)
+- [Blog]([https://heeyeon-lim.notion.site/50b67e02d3ce44988bc63e2e217ff1bc?v=d31b15bf7fcc48fc8dcda13b02074d09](https://www.notion.so/kyungadev/Basic-study-0fbbba3429904de1bd7d03f001656eaa))
 
 ![Kyunga's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungaIM&show_icons=true&theme=transparent)
