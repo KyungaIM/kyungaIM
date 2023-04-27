@@ -1,4 +1,4 @@
-안녕하세요 프런트엔드 개발자 임경아입니다. 새로운 기술을 배우는 것을 좋아하고, 깊이 있게 공부합니다.
+- 안녕하세요 프런트엔드 개발자 임경아입니다. 새로운 기술을 배우는 것을 좋아하고, 깊이 있게 공부합니다.
 
 ### 🔨 Stacks 
 - JavaScript, TypeScript, React, Redux, RTK Query, Next.js, Styled Components, TailwindCSS, AWS(S3, EC2), GitHub Actions, Figma
@@ -13,6 +13,6 @@
 - 인천대학교 | 2013 - 2019
 
 ### 📫 Let's connect!
-- [Blog]([https://heeyeon-lim.notion.site/50b67e02d3ce44988bc63e2e217ff1bc?v=d31b15bf7fcc48fc8dcda13b02074d09](https://www.notion.so/kyungadev/Basic-study-0fbbba3429904de1bd7d03f001656eaa))
+- [Blog](https://www.notion.so/kyungadev/Basic-study-0fbbba3429904de1bd7d03f001656eaa)
 
 ![Kyunga's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungaIM&show_icons=true&theme=transparent)
