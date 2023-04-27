@@ -6,7 +6,7 @@
 
 ### 🌱 Projects
 - [포트폴리오 사이트](https://myportfolio-kyungaim.vercel.app/) <br/>
-- [Dragon Money](https://www.notion.so/9d636b91667a46d3bc704f32a65c2ef7) <br/>
+- [Dragon Money](http://hp5234-dragonmoney-front.s3-website.ap-northeast-2.amazonaws.com/) <br/>
 
 ### 🔭 Education
 - 코드스테이츠 소프트웨어 엔지니어링 프론트엔드 부트캠프 | 2022 - 2023
