@@ -11,7 +11,7 @@
 ### 🔭 Education
 - 코드스테이츠 소프트웨어 엔지니어링 프론트엔드 부트캠프 | 2022 - 2023
 - (주)지케스 대시보드 디자이너 | 2020 - 2022
-- 인천대학교 | 2013 - 2019
+- 인천대학교 | 2013 - 2018
 
 ### 📫 Let's connect!
 - [Blog](https://www.notion.so/kyungadev/kyunga-Blog-cd90743558cb414d8a7e72db5426da79)
