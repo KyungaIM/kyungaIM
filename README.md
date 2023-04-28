@@ -8,7 +8,7 @@
 - [포트폴리오 사이트](https://myportfolio-kyungaim.vercel.app/) <br/>
 - [Dragon Money](http://hp5234-dragonmoney-front.s3-website.ap-northeast-2.amazonaws.com/) <br/>
 
-### 🔭 Education
+### 🔭 Education & career
 - 코드스테이츠 소프트웨어 엔지니어링 프론트엔드 부트캠프 | 2022 - 2023
 - (주)지케스 대시보드 디자이너 | 2020 - 2022
 - 인천대학교 | 2013 - 2018
