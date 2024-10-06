@@ -1,10 +1,24 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=150&section=header&text=KyungaIM&fontSize=70&animation=twinkling)
-- 안녕하세요 프런트엔드 개발자 임경아입니다. 새로운 기술을 배우는 것을 좋아하고, 깊이 있게 공부합니다.
+# 👋 Hello! I'm [Kyunga]
 
-### 🔨 Stacks 
-- JavaScript, TypeScript, React, Redux, RTK Query, Next.js, Styled Components, TailwindCSS, AWS(S3, EC2), GitHub Actions, Figma
+### 💻 About Me
+I’m a passionate developer who loves working on innovative projects and solving complex problems. My focus is on creating high-quality, scalable, and user-friendly applications. I enjoy exploring new technologies and constantly improving my skills.
 
-### 📫 Let's connect!
-- [Blog](https://www.notion.so/kyungadev/kyunga-Blog-cd90743558cb414d8a7e72db5426da79)
+- 🔭 I’m currently working on: [Your Current Project or Area of Focus]
+- 🌱 I’m currently learning: [Technologies or Skills You Are Learning]
 
-![Kyunga's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungaIM&show_icons=true&theme=transparent)
+### 🛠️ Tech Stack
+- **Languages:** [Programming Languages You Use]
+- **Frameworks:** [Frameworks You Work With]
+- **Tools & Platforms:** [Tools, Platforms, or Libraries You Use]
+
+### 📫 How to Reach Me
+- **Email:** [Your Email]
+- **LinkedIn:** [Your LinkedIn Profile]
+- **Twitter:** [Your Twitter Handle, if applicable]
+- **Website:** [Your Portfolio or Personal Website, if applicable]
+
+### 🚀 Featured Projects
+- **[Project 1 Name]** - A brief description of what the project is and the technology stack used.
+- **[Project 2 Name]** - A brief description of what the project is and the technology stack used.
+
+Thanks for stopping by! 😊
