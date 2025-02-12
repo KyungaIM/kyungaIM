@@ -35,6 +35,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyungaIM&hide=contribs,prs&show_icons=true&theme=graywhite)
 
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/kyungaIM"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=KyungaIM&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/KyungaIM"
+  width="600"
+  height="300"
+/>
 </a>
