@@ -23,7 +23,6 @@
 - **Email:** avocadopajamas@gmail.com
 - **Blog:** [https://www.notion.so/kyungadev](https://www.notion.so/kyungadev/kyunga-Blog-cd90743558cb414d8a7e72db5426da79?pvs=4)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyungaIM)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyungaIM&hide=contribs,prs&show_icons=true&theme=graywhite)
 
 
